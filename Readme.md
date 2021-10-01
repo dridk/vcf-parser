@@ -1,5 +1,6 @@
-# Annotated VCF parser 
+## Annotated VCF parser 
 
+It supports vep and snpeff annotations
 
 ```python
 from vcfReader import VcfReader
